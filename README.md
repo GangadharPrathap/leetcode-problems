@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1185-day-of-the-week](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1185-day-of-the-week) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
