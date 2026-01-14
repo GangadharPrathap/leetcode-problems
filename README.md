@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
