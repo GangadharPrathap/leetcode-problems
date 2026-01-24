@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
