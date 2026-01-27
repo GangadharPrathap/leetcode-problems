@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
