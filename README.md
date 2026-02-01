@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
