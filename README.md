@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
 ## Memoization
 |  |
 | ------- |
