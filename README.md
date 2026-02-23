@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Counting
 |  |
 | ------- |
