@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
