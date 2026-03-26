@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
 ## Memoization
