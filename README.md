@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
