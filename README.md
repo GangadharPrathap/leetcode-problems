@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
