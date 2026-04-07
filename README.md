@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
 |  |
 | ------- |
