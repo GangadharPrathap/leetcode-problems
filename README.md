@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
