@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [1185-day-of-the-week](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1185-day-of-the-week) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3783-mirror-distance-of-an-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
