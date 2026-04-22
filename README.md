@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [1185-day-of-the-week](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1185-day-of-the-week) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
