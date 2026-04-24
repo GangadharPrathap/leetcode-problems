@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 ## Matrix
 |  |
 | ------- |
