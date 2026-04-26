@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
+| [0598-range-addition-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
