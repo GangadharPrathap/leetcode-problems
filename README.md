@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0197-rising-temperature) |
 | [0607-sales-person](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0619-biggest-single-number) |
+| [1068-product-sales-analysis-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Greedy
 |  |
