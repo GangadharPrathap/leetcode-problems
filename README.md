@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
