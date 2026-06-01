@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
