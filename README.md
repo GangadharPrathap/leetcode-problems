@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
@@ -272,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
