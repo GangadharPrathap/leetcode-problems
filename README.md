@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [1185-day-of-the-week](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1185-day-of-the-week) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
