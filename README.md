@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
