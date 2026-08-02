@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
