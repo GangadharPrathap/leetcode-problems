@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1179-reformat-department-table) |
 | [1667-fix-names-in-a-table](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1667-fix-names-in-a-table) |
