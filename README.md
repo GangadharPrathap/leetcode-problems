@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
