@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
