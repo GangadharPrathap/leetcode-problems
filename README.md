@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1037-valid-boomerang) |
+| [1386-cinema-seat-allocation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0874-walking-robot-simulation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2615-sum-of-distances) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1386-cinema-seat-allocation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/GangadharPrathap/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1386-cinema-seat-allocation](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GangadharPrathap/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
