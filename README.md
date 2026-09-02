@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1341-movie-rating) |
 | [1667-fix-names-in-a-table](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1667-fix-names-in-a-table) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Greedy
 |  |
 | ------- |
