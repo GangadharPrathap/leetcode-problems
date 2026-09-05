@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1341-movie-rating) |
 | [1667-fix-names-in-a-table](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1667-fix-names-in-a-table) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/GangadharPrathap/leetcode-problems/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [3436-find-valid-emails](https://github.com/GangadharPrathap/leetcode-problems/tree/master/3436-find-valid-emails) |
 ## Greedy
 |  |
 | ------- |
